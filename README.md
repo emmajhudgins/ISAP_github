@@ -2,3 +2,5 @@
 Based on material jointly created by Drs. Courtney Robichaud and Emma Hudgins
 
 Slides available [here](https://github.com/emmajhudgins/ISAP_github/files/10609852/ISAP.3002.Guest.Lecture.pdf)
+
+![Infographic](https://github.com/emmajhudgins/WEN_github/blob/main/Resources/github_infographic.png)
